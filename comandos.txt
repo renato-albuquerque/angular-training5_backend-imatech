@@ -1,0 +1,9 @@
+1ª CRIAR UMA ESTRUTURA JSON-SERVER
+
+a) npm i json-server
+b) npx i json-server
+
+2ª EXECUTAR
+
+a) npm json-server alunos.json
+b) npx json-server alunos.json
